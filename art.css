@@ -1,0 +1,40 @@
+section {
+    margin-bottom: 2rem;
+  }
+
+.all_blog-section {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .all_container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  
+  .all_blog-item {
+    background-color: #fff;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.1);
+  }
+  
+  .all_blog-item h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .all_blog-item p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .all_blog-item img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
